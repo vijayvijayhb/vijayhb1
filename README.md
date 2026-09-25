@@ -1,1 +1,1 @@
-# vijayhb1
+# vijayhb 1I am an aspiring software engineer passionate about building scalable, user-centric software applications and exploring modern cloud and web technologies. With a solid foundation in computer science principles, data structures, and full-stack development, I focus on writing clean, efficient, and well-documented code.
